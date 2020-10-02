@@ -1,8 +1,8 @@
-# lumen-auth-example
+# login visor
 
 ## Usage
 
--   `git clone https://github.com/ndiecodes/lumen-auth-example.git auth-api`
+
 -   `cd auth-api`
 -   `composer install`
 -   `php artisan jwt:secret`
